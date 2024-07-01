@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "mongoose": "^8.4.4",
-    "remove-node-modules": "^1.7.6"
-  }
-}
